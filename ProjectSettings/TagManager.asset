@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - heartSpace
+  - regSpace
+  - piece
+  - ignore
+  - regPiece
+  - spePiece
+  - hrtPiece
+  - cpuReg
+  - cpuSpe
+  - cpuHrt
+  - blkPiece
+  - cpuBLK
+  - place
+  - replace
+  - bklPiece
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - regSpace
+  - heartSpace
+  - ignore
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
